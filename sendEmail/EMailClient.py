@@ -11,8 +11,8 @@ class GMailClient:
     def sendEmail(self,contacts):
         #EMAIL_ADDRESS = os.environ.get('EMAIL_USER')
         #EMAIL_PASSWORD = os.environ.get('EMAIL_PASS')
-        EMAIL_ADDRESS = 'sender email'
-        EMAIL_PASSWORD = 'sender password'
+        EMAIL_ADDRESS = 'mbarthwal21@gmail.com'
+        EMAIL_PASSWORD = '8bsuv3cx1@A'
 
         #contacts = ['dineshraturi22@gmail.com']
 
